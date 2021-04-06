@@ -1,3 +1,7 @@
 # Car Insurance App
 
-A simple app which allows an administrator to find quotes for a client, save them to a database, and view them all on a webpage. 
+A simple application created using ASP.NET MVC code model, and Entity Framework that allows an administrator to input information, receive a quote for a client, and view all quotes entered into the database. 
+
+## Features:
+- Entity Framework
+- Reading and Writing to a database
